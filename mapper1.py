@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Mapper outputs VIN as a key and incident type, make, and year as values"""
 import sys
 

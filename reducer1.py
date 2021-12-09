@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Reducer outputs Make and year. Only outputs accident types."""
 import sys
 # [Define group level master information]

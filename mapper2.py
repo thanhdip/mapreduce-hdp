@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Mapper outputs Make and year with count of it."""
 import sys
 

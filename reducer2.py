@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Reducer outputs Make and year and the count."""
 import sys
 # [Define group level master information]
