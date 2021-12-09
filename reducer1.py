@@ -29,7 +29,7 @@ def flush():
     global count
     # [Write the output]
     for _ in range(0, count):
-        print(f"{make},{year}")
+        print '%s,%s' % (make, year)
 
 
 def reducer(input):

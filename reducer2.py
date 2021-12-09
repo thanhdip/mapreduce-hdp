@@ -20,7 +20,7 @@ def flush():
     global current_makeyear
     global current_count
     # [Write the output]
-    print(f"{current_makeyear}\t{current_count}")
+    print '%s\t%s' % (current_makeyear, current_count)
 
 
 def reducer(input):

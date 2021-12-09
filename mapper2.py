@@ -8,7 +8,7 @@ def mapper(input):
     for line in input:
         row = str(line).strip()
         # Data        # Return
-        print(f"{row}\t{1}")
+        print '%s\t%s' % (row, 1)
 
 
 def main(input):

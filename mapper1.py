@@ -14,8 +14,8 @@ def mapper(input):
         year = row[5]
         # Return
         key = vin_number
-        value = f"{incident_type},{make},{year}"
-        print(f"{key}\t{value}")
+        value = "%s,%s,%s" % (incident_type, make, year)
+        print '%s\t%s' % (key, value)
 
 
 def main(input):
